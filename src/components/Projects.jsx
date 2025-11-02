@@ -17,7 +17,7 @@ const projects = [
       "A responsive and animated personal portfolio website showcasing my skills and projects.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
     link: "https://github.com/aditishukla16/Portfolio_website",
-    demo: "https://yourportfolio.vercel.app",
+    demo: "https://portfolio-website-cl7r.vercel.app",
   },
   {
     title: "AI Task Manager",
